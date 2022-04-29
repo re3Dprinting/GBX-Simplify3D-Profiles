@@ -133,10 +133,10 @@
   <gcodeZoffset>0</gcodeZoffset>
   <overrideMachineDefinition>1</overrideMachineDefinition>
   <machineTypeOverride>0</machineTypeOverride>
-  <strokeXoverride>572</strokeXoverride>
+  <strokeXoverride>565</strokeXoverride>
   <strokeYoverride>593</strokeYoverride>
   <strokeZoverride>470</strokeZoverride>
-  <originOffsetXoverride>-33</originOffsetXoverride>
+  <originOffsetXoverride>0</originOffsetXoverride>
   <originOffsetYoverride>0</originOffsetYoverride>
   <originOffsetZoverride>0</originOffsetZoverride>
   <homeXdirOverride>-1</homeXdirOverride>
