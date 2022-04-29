@@ -152,7 +152,7 @@
   <baudRateOverride>250000</baudRateOverride>
   <overridePrinterModels>0</overridePrinterModels>
   <printerModelsOverride></printerModelsOverride>
-  <startingGcode>SET_EXTRUDER_ROTATION_DISTANCE EXTRUDER=extruder [DISTANCE=58.182],M220 S100,M221 S100,T0,G28,M290 Z0.0,G92 E0,G1 E0.1 F100,G92 E0,G1 E15.0 F100,G92 E0,G1 Z0.3 F200</startingGcode>
+  <startingGcode>SET_EXTRUDER_ROTATION_DISTANCE EXTRUDER=extruder [DISTANCE=3.846],M220 S100,M221 S100,T0,G28,M290 Z0.0,G92 E0,G1 E0.1 F100,G92 E0,G1 E15.0 F100,G92 E0,G1 Z0.3 F200</startingGcode>
   <layerChangeGcode></layerChangeGcode>
   <retractionGcode></retractionGcode>
   <toolChangeGcode></toolChangeGcode>
@@ -214,7 +214,7 @@
     <useSkirt>1</useSkirt>
     <usePrimePillar>0</usePrimePillar>
     <useOozeShield>0</useOozeShield>
-    <startingGcode>SET_EXTRUDER_ROTATION_DISTANCE EXTRUDER=extruder [DISTANCE=58.182],M220 S100,M221 S100,T0,G28,M290 Z0.0,G92 E0,G1 E0.1 F100,G92 E0,G1 E15.0 F100,G92 E0,G1 Z0.3 F200</startingGcode>
+    <startingGcode>SET_EXTRUDER_ROTATION_DISTANCE EXTRUDER=extruder [DISTANCE=3.846],M220 S100,M221 S100,T0,G28,M290 Z0.0,G92 E0,G1 E0.1 F100,G92 E0,G1 E15.0 F100,G92 E0,G1 Z0.3 F200</startingGcode>
   </autoConfigureExtruders>
   <autoConfigureMaterial name="re:3D - rPC">
     <extruder name="Pellet Extruder">
@@ -248,7 +248,7 @@
       <stabilizeAtStartup>1</stabilizeAtStartup>
       <setpoint layer="1" temperature="115"/>
     </temperatureController>
-    <startingGcode>SET_EXTRUDER_ROTATION_DISTANCE EXTRUDER=extruder [DISTANCE=58.182],M220 S100,M221 S100,T0,G28,M290 Z0.0,G92 E0,G1 E0.1 F100,G92 E0,G1 E15.0 F100,G92 E0,G1 Z0.3 F200</startingGcode>
+    <startingGcode>SET_EXTRUDER_ROTATION_DISTANCE EXTRUDER=extruder [DISTANCE=3.846],M220 S100,M221 S100,T0,G28,M290 Z0.0,G92 E0,G1 E0.1 F100,G92 E0,G1 E15.0 F100,G92 E0,G1 Z0.3 F200</startingGcode>
 	<filamentPricesPerKg>0|0|0|0|0|0</filamentPricesPerKg>
 	<filamentDensities>1.20|1.20|1.20|1.20|1.20|1.20</filamentDensities>
   </autoConfigureMaterial>
@@ -284,7 +284,7 @@
       <stabilizeAtStartup>1</stabilizeAtStartup>
       <setpoint layer="1" temperature="60"/>
     </temperatureController>
-    <startingGcode>SET_EXTRUDER_ROTATION_DISTANCE EXTRUDER=extruder [DISTANCE=58.182],M220 S100,M221 S100,T0,G28,M290 Z0.0,G92 E0,G1 E0.1 F100,G92 E0,G1 E15.0 F100,G92 E0,G1 Z0.3 F200</startingGcode>
+    <startingGcode>SET_EXTRUDER_ROTATION_DISTANCE EXTRUDER=extruder [DISTANCE=3.846],M220 S100,M221 S100,T0,G28,M290 Z0.0,G92 E0,G1 E0.1 F100,G92 E0,G1 E15.0 F100,G92 E0,G1 Z0.3 F200</startingGcode>
 	<filamentPricesPerKg>0|0|0|0|0|0</filamentPricesPerKg>
 	<filamentDensities>1.25|1.25|1.25|1.25|1.25|1.25</filamentDensities>
   </autoConfigureMaterial>
@@ -320,7 +320,7 @@
       <stabilizeAtStartup>1</stabilizeAtStartup>
       <setpoint layer="1" temperature="60"/>
     </temperatureController>
-    <startingGcode>SET_EXTRUDER_ROTATION_DISTANCE EXTRUDER=extruder [DISTANCE=58.182],M220 S100,M221 S100,T0,G28,M290 Z0.0,G92 E0,G1 E0.1 F100,G92 E0,G1 E15.0 F100,G92 E0,G1 Z0.3 F200</startingGcode>
+    <startingGcode>SET_EXTRUDER_ROTATION_DISTANCE EXTRUDER=extruder [DISTANCE=3.846],M220 S100,M221 S100,T0,G28,M290 Z0.0,G92 E0,G1 E0.1 F100,G92 E0,G1 E15.0 F100,G92 E0,G1 Z0.3 F200</startingGcode>
 	<filamentPricesPerKg>3.11|3.11|3.11|3.11|3.11|3.11</filamentPricesPerKg>
 	<filamentDensities>1.38|1.38|1.38|1.38|1.38|1.38</filamentDensities>
   </autoConfigureMaterial>
