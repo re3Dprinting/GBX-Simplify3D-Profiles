@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
-<profile name="GBX Reg Klipper 1.5" version="2022-02-25 14:37:42" app="S3D-Software 4.1.2">
-  <baseProfile>re3D GB3+</baseProfile>
+<profile name="GBX Reg 1.5" version="2022-02-25 14:37:42" app="S3D-Software 4.1.2">
+  <baseProfile>re3D GBX</baseProfile>
   <printMaterial>Ultrafuse - rPET</printMaterial>
   <printQuality>1.75mm Nozzle</printQuality>
   <printExtruders>Pellet Extruders</printExtruders>
